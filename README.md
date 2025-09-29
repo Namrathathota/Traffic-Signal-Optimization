@@ -1,19 +1,20 @@
-SUMO Traffic Simulator Tutorial
+# SUMO Traffic Simulator Tutorial
+
 A comprehensive tutorial project demonstrating traffic simulation and adaptive traffic signal control using SUMO (Simulation of Urban Mobility) and Python's TraCI interface. This repository explores various approaches from basic vehicle monitoring to advanced reinforcement learning for intelligent traffic management.
 
-🚦 Project Overview
+ # Project Overview
 This tutorial series demonstrates progressively complex traffic simulation scenarios, including:
 
-Basic vehicle monitoring and control
+# Basic vehicle monitoring and control
 Traffic light management for emergency vehicles
 Reinforcement learning approaches for adaptive traffic signal control
 Connected and autonomous vehicle (CAV) simulations
-📋 Prerequisites
+#  Prerequisites
 Required Software
 SUMO (Simulation of Urban Mobility) - Latest version
 Python 3.7+
 SUMO_HOME environment variable properly configured
-Python Dependencies
+# Python Dependencies
 pip install numpy matplotlib tensorflow keras
 SUMO Installation
 Download and install SUMO from Eclipse SUMO
