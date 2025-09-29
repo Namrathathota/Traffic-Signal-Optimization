@@ -1,4 +1,3 @@
-# Traffic-Signal-Optimization
 SUMO Traffic Simulator Tutorial
 A comprehensive tutorial project demonstrating traffic simulation and adaptive traffic signal control using SUMO (Simulation of Urban Mobility) and Python's TraCI interface. This repository explores various approaches from basic vehicle monitoring to advanced reinforcement learning for intelligent traffic management.
 
